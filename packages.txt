@@ -1,0 +1,10 @@
+# Milestone_4
+openai
+streamlit 
+beautifulsoup4
+pandas
+numpy
+openpyxl
+requests
+
+
